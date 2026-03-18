@@ -451,5 +451,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-For more information and updates, visit: [https://paweldywandev.com/](https://paweldywandev.com/)
+For more information and updates, visit: [https://paweldywan.com/](https://paweldywan.com/)
 
