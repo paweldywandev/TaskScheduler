@@ -4,7 +4,7 @@ A full-stack web application for scheduling and managing events and tasks with a
 
 ## Application URL
 
-- **Production**: https://taskscheduler.paweldywandev.com/
+- **Production**: https://taskscheduler.paweldywan.com/
 - **HTTPS (Local)**: https://localhost:7243
 - **HTTP (Local)**: http://localhost:5098
 - **Swagger API (Development)**: https://localhost:7243/swagger
@@ -167,7 +167,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/paweldywandev/TaskScheduler.git
+   git clone https://github.com//TaskScheduler.git
    cd TaskScheduler
    ```
 
@@ -393,7 +393,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/paweldywandev/TaskScheduler.git
+   git clone https://github.com//TaskScheduler.git
    ```
 
 2. **Create a feature branch**
@@ -435,8 +435,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 
 **Pawel Dywan**
-- GitHub: [@paweldywandev](https://github.com/paweldywandev)
-- Website: [https://paweldywandev.com/](https://paweldywandev.com/)
+- GitHub: [@](https://github.com/)
+- Website: [https://paweldywan.com/](https://paweldywan.com/)
 
 ## Acknowledgments
 
