@@ -435,7 +435,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 
 **Pawel Dywan**
-- GitHub: [@](https://github.com/)
+- GitHub: [@paweldywandev](https://github.com/paweldywandev)
 - Website: [https://paweldywan.com/](https://paweldywan.com/)
 
 ## Acknowledgments
